@@ -47,6 +47,10 @@ Tags: Bare/Standard/Full/Complicated
 
 # The list
 
+## [kuleshov/minillm](https://github.com/kuleshov/minillm)
+
+MiniLLM: Large Language Models on Consumer GPUs. It is a minimal system for running modern LLMs on consumer-grade GPUs. While llama-cpp allows running LLMs on Apple hardware, MiniLLM enables running a larger set of models on most recent Nvidia GPUs.
+
 ## [lucidrains/PaLM-rlhf-pytorch](https://github.com/lucidrains/PaLM-rlhf-pytorch)
 
 Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM
